@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Authors>Henry Kovalevsky</Authors>
+    <Description>Courgette is a small library that helps to manage configuration models in the F# scripts.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>F# Interactive</PackageTags>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Script.fsx" />
+    <Compile Include="Library.fs" />
+  </ItemGroup>
+
+  <ItemGroup />
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>

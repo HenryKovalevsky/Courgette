@@ -1,0 +1,29 @@
+# Visual Studio (Code) cache/options directory
+.vs/
+.vscode/
+.history/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ionide
+.ionide/
+
+# Courgette
+.courgette/
