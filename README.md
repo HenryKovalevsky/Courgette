@@ -1,6 +1,6 @@
 # Courgette
 
-[![NuGet version (Courgette)](https://img.shields.io/nuget/v/Courgette)](https://www.nuget.org/packages/Courgette/0.1.0)
+[![NuGet version (Courgette)](https://img.shields.io/nuget/v/Courgette)](https://www.nuget.org/packages/Courgette/0.1.1)
 
 Courgette is a small library that helps to manage configuration models in the F# scripts.
 
